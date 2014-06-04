@@ -1,0 +1,4 @@
+.vagrant
+composer.lock
+selenium-server-standalone.2.42.2.jar
+vendor
