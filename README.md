@@ -1,6 +1,6 @@
-#futevima (Functional Test Virtual Machine)
+#futevima
 
-The *futevima* is a virtual machine which allows us to run functional tests
+The *futevima* (from *Functional Test Virtual Machine*) is a virtual machine which allows us to run functional tests
 automatically on the Websites we develop.
 
 It uses:
